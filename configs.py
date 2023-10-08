@@ -40,7 +40,7 @@ class Config(object):
 	API_HASH = os.environ.get("API_HASH", "5a2684512006853f2e48aca9652d83ea")
 	BOT_TOKEN = os.environ.get("BOT_TOKEN","6650273889:AAGdfCNToCWaKY8kZYF-yzaKMeK1hpRwiCE")
 	BOT_USERNAME = os.environ.get("BOT_USERNAME" , "StreamX_Test_Bot")
-	DB_CHANNEL = int(os.environ.get("DB_CHANNEL", -1001772120203))
+	DB_CHANNEL = int(os.environ.get("DB_CHANNEL", -1001920908349))
 	BOT_OWNER = int(os.environ.get("BOT_OWNER", "6087923109"))
 	DATABASE_URL = os.environ.get("DATABASE_URL","mongodb+srv://toha69:2yNS8yTvs6gWNb8l@cluster0.u9cefbf.mongodb.net/?retryWrites=true&w=majority")
 	UPDATES_CHANNEL = os.environ.get("UPDATES_CHANNEL", "-1001765107260")
